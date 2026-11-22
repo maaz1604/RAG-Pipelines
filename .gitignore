@@ -12,4 +12,6 @@ wheels/
 .python-version
 .env
 
+# Project data and generated vector stores
 data/
+
